@@ -4,10 +4,14 @@ Movie Mania is a cutting-edge iOS application built using the MVVM (Model-View-V
 
 Features
 
-Showcase of Shows: Explore an extensive collection of TV shows and series, each with detailed information and captivating cover images.
-Smooth Video Playback: Enjoy uninterrupted streaming of your favorite shows using the YouTube API's video playback capabilities.
-Personalized Experience: Utilize Apple Core Data to store user preferences, such as bookmarked shows and last watched episodes.
-Search Functionality: Easily search for shows by title, genre, or keywords, ensuring you can quickly find content that interests you.
+👉Showcase of Shows: Explore an extensive collection of TV shows and series, each with detailed information and captivating cover images.
+
+👉Smooth Video Playback: Enjoy uninterrupted streaming of your favorite shows using the YouTube API's video playback capabilities.
+
+👉Personalized Experience: Utilize Apple Core Data to store user preferences, such as bookmarked shows and last watched episodes.
+
+👉Search Functionality: Easily search for shows by title, genre, or keywords, ensuring you can quickly find content that interests you.
+
 MVVM Architecture: Built with the Model-View-ViewModel architecture to ensure separation of concerns and maintainable codebase.
 Responsive Design: The app is designed to work seamlessly across various iOS devices, adapting to different screen sizes and orientations.
 How It Works
